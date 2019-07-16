@@ -1,0 +1,2 @@
+chmod permission file_name/directory_name 
+example =chmod u=rwx,g=rx,o=r directory_name/file_name
