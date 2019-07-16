@@ -1,0 +1,3 @@
+create user = useradd name
+exampl = useradd footy
+create a new user id = useradd -u 1505 footy
